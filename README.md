@@ -10,6 +10,6 @@
 - 📫 How to reach me: ...https://bit.ly/3J8QjKP
 - 😄 Pronouns: ...he|him
 - ⚡ Fun fact: ...always learning 
-- <!--- 👯 I’m looking to collaborate on ...-->
+ <!--- - 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
--->
+
