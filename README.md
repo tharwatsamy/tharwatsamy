@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...yourube, udemy, freelancing 
 - 🌱 I’m currently learning ... Database design and web development 
