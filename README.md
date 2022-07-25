@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my health and making customers and students happy 
+- 🔭 I’m currently working on my health, making customers and students happy 
 - 🌱 I’m currently learning Database design and web development 
 - 💬 Ask me about anything
 - 📫 How to reach me: https://bit.ly/3J8QjKP
