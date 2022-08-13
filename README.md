@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharwat</h1>
-<h3 align="center">Mobile app Developer with a passion to teach other programming</h3>
+<h3 align="center">Mobile app Developer with a knack for teaching other programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p>
 
