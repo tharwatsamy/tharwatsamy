@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharwatsamy&label=Profile%20views&color=0e75b6&style=flat" alt="tharwatsamy" /> </p>
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **FLUTTER Development**
 
 - 💬 Ask me about **anything**
 
